@@ -1,0 +1,26 @@
+body {
+    margin: 3em;
+}
+
+.experience {
+    padding: 1em;
+    padding-left: 3em;
+    font-family: "Open Sans";
+}
+
+.about {
+    padding: 1em;
+    padding-left: 3em;
+    font-family: "Open Sans";
+}
+
+.contacts {
+    padding: 2em;
+    font-size:  3em;
+    font-family: "Lora";
+}
+
+a {
+    color: #2020ff;
+}
+
