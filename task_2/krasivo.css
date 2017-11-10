@@ -1,0 +1,20 @@
+body {
+    margin: 3em;
+	background-color: #ebc5eb;
+}
+
+.manager {
+    padding: 1em;
+    padding-left: 3em;
+    font-family: "Open Sans";
+	color: #ae1231;
+}
+
+button {
+	background: #ebd6eb;
+	border-radius: 5px; 
+	box-shadow: 0px 1px 3px;
+	font-family: "Open Sans";
+	font-size: 16px; 
+}
+
