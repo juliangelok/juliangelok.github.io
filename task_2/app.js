@@ -20,6 +20,6 @@ function addTaska() {
 $(window).on ('load', function(){ 
 $("#root").append('<ul>');
 $('ul').append('<li id="num1">');
-$('li').append('<span> Сделать задание #3 по web-программированию </span> <button onclick="deleteKnopka();"> Удалить </button>');
+$('li').append('<span>"Сделать задание #3 по web-программированию"</span> <button onclick="deleteKnopka();"> Удалить </button>');
 $("#root").append('<input id="add_task_input" type=text> </input> <br> <button id="add_task" onclick="addTaska(); idt=idt+1;"> Добавить задачу </button>');
 }); 
